@@ -1,0 +1,24 @@
+* {
+  font-family: "Courier New", Arial, sans-serif;
+}
+
+img {
+  height: 250px;
+  width: auto;
+}
+
+h1, h3 {
+  background-color: lightgray;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+h3 {
+  color: darkred;
+}
+
+#recipes-list {
+  font-size: 36px;
+}
